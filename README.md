@@ -2,4 +2,4 @@
 
 Zen Garden is a project for the Code Nation coding bootcamp
 
-[Zen Garden](https://fernandaricciardi.github.io/zen-garden/)
+[Zen Garden webpage](https://fernandaricciardi.github.io/zen-garden/)
